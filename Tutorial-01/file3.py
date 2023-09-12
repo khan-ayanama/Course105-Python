@@ -28,3 +28,5 @@ print("he is \t awesome")
 print("\\\" \\n \\t \\'")
 
 
+# Name of Function
+print(max.__name__)
