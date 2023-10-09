@@ -134,32 +134,32 @@ Once the interpreter reaches the end of the script or encounters an explicit exi
 
 ## Here are some minute details and interesting aspects about Python
 
-* Whitespace Matters: Python uses indentation (whitespace) to define code blocks, unlike many other programming languages that use braces or keywords. This enforces a consistent and readable coding style.
+* `Whitespace Matters:` Python uses indentation (whitespace) to define code blocks, unlike many other programming languages that use braces or keywords. This enforces a consistent and readable coding style.
 
-* Everything is an Object: In Python, everything is an object, including integers, strings, functions, and even classes. This reflects the language's object-oriented nature.
+* `Everything is an Object:` In Python, everything is an object, including integers, strings, functions, and even classes. This reflects the language's object-oriented nature.
 
-* No Mandatory Semicolons: Unlike languages like C++ or Java, Python doesn't require semicolons at the end of statements. Statements are usually separated by newlines.
+* `No Mandatory Semicolons:` Unlike languages like C++ or Java, Python doesn't require semicolons at the end of statements. Statements are usually separated by newlines.
 
-* Python Enhancement Proposals (PEP): PEPs are design documents that provide information to the Python community or propose new features. Major language changes and enhancements go through a PEP process.
+* `Python Enhancement Proposals (PEP):` PEPs are design documents that provide information to the Python community or propose new features. Major language changes and enhancements go through a PEP process.
 
-* Mutable and Immutable Objects: Python objects are categorized as mutable (can be changed after creation) and immutable (cannot be changed after creation). For example, lists are mutable, while strings are immutable.
+* `Mutable and Immutable Objects:` Python objects are categorized as mutable (can be changed after creation) and immutable (cannot be changed after creation). For example, lists are mutable, while strings are immutable.
 
-* Duck Typing: Python follows the philosophy of "duck typing," which means the type of an object is determined by its behavior rather than its explicit type. If it walks like a duck and quacks like a duck, it's a duck!
+* `Duck Typing:` Python follows the philosophy of "duck typing," which means the type of an object is determined by its behavior rather than its explicit type. If it walks like a duck and quacks like a duck, it's a duck!
 
-* Global Interpreter Lock (GIL): Python's GIL is a mutex that allows only one thread to execute in the interpreter at a time. This can limit the effectiveness of multi-threading for CPU-bound tasks.
+* `Global Interpreter Lock (GIL):` Python's GIL is a mutex that allows only one thread to execute in the interpreter at a time. This can limit the effectiveness of multi-threading for CPU-bound tasks.
 
-* Zen of Python: "The Zen of Python" is a collection of guiding principles for writing computer programs in Python. You can access it by typing import this in a Python interpreter.
+* `Zen of Python:` "The Zen of Python" is a collection of guiding principles for writing computer programs in Python. You can access it by typing import this in a Python interpreter.
 
-* List Comprehensions: Python supports list comprehensions, which provide a concise way to create lists. They combine the for loop and the creation of new elements into a single line.
+* `List Comprehensions:` Python supports list comprehensions, which provide a concise way to create lists. They combine the for loop and the creation of new elements into a single line.
 
-* Function Annotations: You can add annotations to function parameters and return values to provide hints about their intended types or usage. However, these annotations are not enforced by the interpreter.
+* `Function Annotations:` You can add annotations to function parameters and return values to provide hints about their intended types or usage. However, these annotations are not enforced by the interpreter.
 
-* Private Variables and Methods: Although Python doesn't have strict access modifiers like other languages, a common convention is to prefix "private" variables and methods with an underscore (e.g., _private_var).
+* `Private Variables and Methods:` Although Python doesn't have strict access modifiers like other languages, a common convention is to prefix "private" variables and methods with an underscore (e.g., _private_var).
 
-* Magic Methods: Python has a set of special methods, often referred to as "magic methods" or "dunder methods" (double underscore), that allow you to define how objects behave in various contexts (e.g., __init__, __str__).
+* `Magic Methods:` Python has a set of special methods, often referred to as "magic methods" or "dunder methods" (double underscore), that allow you to define how objects behave in various contexts (e.g., __init__, __str__).
 
-* Keyword Arguments: In function calls, you can use keyword arguments to specify values for parameters by name, regardless of their position in the parameter list.
+* `Keyword Arguments:` In function calls, you can use keyword arguments to specify values for parameters by name, regardless of their position in the parameter list.
 
-* Docstrings: Python encourages the use of docstrings to document functions, classes, and modules. These docstrings can be accessed using the help() function.
+* `Docstrings:` Python encourages the use of docstrings to document functions, classes, and modules. These docstrings can be accessed using the help() function.
 
-* Virtual Environments: Python provides a way to create isolated environments for your projects using virtual environments. This helps manage dependencies and avoid conflicts.  
+* `Virtual Environments:` Python provides a way to create isolated environments for your projects using virtual environments. This helps manage dependencies and avoid conflicts.  

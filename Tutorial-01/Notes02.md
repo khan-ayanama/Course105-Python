@@ -4,15 +4,15 @@
 
 Python is a dynamically typed language, meaning you don't need to explicitly declare the data type of a variable. Python has several built-in data types:
 
-* Integers (int): Whole numbers without decimal points.
-* Floating-Point Numbers (float): Numbers with decimal points.
-* Strings (str): Sequence of characters, enclosed in single (' ') or double (" ") quotes.
-* Booleans (bool): Represents the truth values True or False.
-* Lists (list): Ordered collection of items.
-* Tuples (tuple): Similar to lists, but immutable (can't be changed after creation).
-* Dictionaries (dict): Collection of key-value pairs.
-* Sets (set): Unordered collection of unique items.
-* NoneType (None): Represents the absence of a value.
+* `Integers (int):` Whole numbers without decimal points.
+* `Floating-Point Numbers (float):` Numbers with decimal points.
+* `Strings (str):` Sequence of characters, enclosed in single (' ') or double (" ") quotes.
+* `Booleans (bool):` Represents the truth values True or False.
+* `Lists (list):` Ordered collection of items.
+* `Tuples (tuple):` Similar to lists, but immutable (can't be changed after creation).
+* `Dictionaries (dict):` Collection of key-value pairs.
+* `Sets (set):` Unordered collection of unique items.
+* `NoneType (None):` Represents the absence of a value.
 
 ## Variables
 

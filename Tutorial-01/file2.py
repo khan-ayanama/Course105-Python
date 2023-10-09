@@ -37,5 +37,4 @@ print("this is  \\\ backslash")
 
 print("hello\bdf")
 
-
-
+print(help(print))
