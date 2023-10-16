@@ -9,7 +9,7 @@ print('Hello World!')
 # Using triple quote
 s = '''Hello
     Friend
-    HOw are you'''
+    How are you'''
 print(s)
 
 # Escape sequence
