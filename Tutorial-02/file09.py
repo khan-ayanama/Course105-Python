@@ -5,7 +5,7 @@ for i in range(1, 11):
         break
     print(i)
 
-print("NEw")
+print("NEW")
 
 for i in range(1, 11):
     if i == 5:
