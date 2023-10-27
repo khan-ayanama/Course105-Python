@@ -2,7 +2,8 @@
 
 ## Software
 
-Software is a collection of programs and programs are the set of instructions.
+* Software is a collection of programs
+* Programs are the set of instructions.
 
 ### Software types:-
 
