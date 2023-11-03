@@ -20,7 +20,7 @@ print(name.replace(" ", "")+dots)
 
 string = "she is beautiful and she is good is dancer"
 print(string.replace(" ", "_"))
-print(string.replace("is", "was", 3))
+print(string.replace("is", "was", 2))
 
 
 # find() method
