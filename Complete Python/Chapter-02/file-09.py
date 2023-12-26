@@ -11,3 +11,8 @@
 user_age_str = input("Enter your age: ")
 user_age = int(user_age_str)  # Convert the entered string to an integer
 print("You will be " + str(user_age + 1) + " years old next year.")
+
+# boolean input
+# Everything will be true except space even the False will be true because it will act as string which is true.
+input_bool = bool(input("Enter the boolean"))
+print(input_bool)

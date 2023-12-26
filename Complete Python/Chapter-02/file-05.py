@@ -1,5 +1,5 @@
 # Identity Operators
-# The identity operators compare the memory locations of two objects. Hence, it is possible toknow whether two objects are same or not
+# The identity operators compare the memory locations of two objects. Hence, it is possible to know whether two objects are same or not
 
 # is Operator
 x = 5
