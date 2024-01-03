@@ -54,7 +54,6 @@ my_list = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 # Slice from index 2 to 6 (exclusive)
 result = my_list[2:6]
 print(result)  # Output: [3, 4, 5, 6]
-
 result = my_list[3]
 print(result)  # Output: 4
 
