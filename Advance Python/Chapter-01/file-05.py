@@ -22,5 +22,3 @@ print(dog2.age)   # Output: 5
 
 # NOTE:
 # self parameter is a convention in Python and represents the instance of the class. It must always be the first parameter in the method, but when you call the method, you don't explicitly pass a value for self – Python takes care of that behind the scenes.
-
-# video-09

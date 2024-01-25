@@ -2,7 +2,7 @@
 # Attributes --> variable that contains data.
 # Method --> Method performs an action or task.
 
-class Dog:
+class Dog(object):
     # Class attribute
     species = "Canine"
 
