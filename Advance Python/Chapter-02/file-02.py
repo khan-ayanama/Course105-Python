@@ -22,3 +22,25 @@ Phone.show_model()
 
 # Accessing Variable outside the class
 print(Phone.model)
+
+# CLASS VARIABLE
+# It's variable created at class level not instance level
+
+# Example:
+class Phone:
+    # Here android is class variable
+    Android = True
+    def __init__(self,model):
+        self.model = model
+    
+    def show_model(self):
+        print(self.model)
+    
+    # Accessing class variable inside class
+    @classmethod
+    def is_android(cls):
+        print(cls.Android)
+
+
+# Accessing class variable outside the class
+print(Phone.Android)
