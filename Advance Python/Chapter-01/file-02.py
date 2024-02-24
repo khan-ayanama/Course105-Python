@@ -31,5 +31,5 @@ dog2.bark()
 # class keyword is used to create a class
 # object represents base class name, it's optional.
 # self is a variable which refers to current class instance/object.
-# __init__(), it is used to initialize varaibles, we not need to call this explicitly.
+# __init__(), it is used to initialize variables, we not need to call this explicitly.
 # Class name generally starts with Capital letter.

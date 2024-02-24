@@ -36,7 +36,7 @@ class Phone:
     def show_model(self):
         print(self.model)
     
-    # Accessing class variable inside class
+    # Accessing class variable inside method
     @classmethod
     def is_android(cls):
         print(cls.Android)
