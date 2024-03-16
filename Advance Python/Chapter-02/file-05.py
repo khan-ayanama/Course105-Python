@@ -18,7 +18,7 @@ class Mobile:
         return cls.isPhone
 
     def __init__(self) -> None:
-        pass
+        pass 
 
 
 print(Mobile.is_phone(False))
